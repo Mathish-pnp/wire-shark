@@ -17,3 +17,29 @@ Use Wireshark to capture live network packets and identify at least three basic 
 ---
 
 
+---
+
+## 🧭 Step-by-Step Instructions
+
+### ✅ 1. Install Wireshark
+- Download and install from: [https://www.wireshark.org](https://www.wireshark.org)
+- Allow it to install **WinPcap/Npcap** when prompted (for packet capturing support)
+
+---
+
+### ✅ 2. Start Capturing Packets
+1. Launch Wireshark.
+2. Select the **active network interface** (usually "Wi-Fi" or "Ethernet").
+3. Click the **blue shark fin icon** to start capturing live packets.
+
+📷 *Tip:* Optionally take a screenshot showing the capture starting.
+
+---
+
+### ✅ 3. Generate Network Traffic
+While capturing:
+
+- Open a web browser and visit:  
+
+
+
