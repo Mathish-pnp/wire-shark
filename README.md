@@ -19,7 +19,7 @@ Use Wireshark to capture live network packets and identify at least three basic 
 
 ---
 
-## 🧭 Step-by-Step Instructions
+## Instructions
 
 ### ✅ 1. Install Wireshark
 - Download and install from: [https://www.wireshark.org](https://www.wireshark.org)
@@ -41,5 +41,9 @@ While capturing:
 
 - Open a web browser and visit:  
 
+
+- Open **Command Prompt** and run:  
+```bash
+ping 8.8.8.8
 
 
