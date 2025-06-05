@@ -36,6 +36,21 @@ Use Wireshark to capture live network packets and identify at least three basic 
 
 ---
 
+
+Capture live network packets using **Wireshark** and analyze basic traffic protocols (HTTP, DNS, TCP, etc.).
+
+---
+
+## 📦 Folder Contents
+
+| File/Folder                      | Description                                |
+|----------------------------------|--------------------------------------------|
+| `captures/network-traffic-sample.pcap` | The actual captured network traffic file  |
+| `screenshots/`                   | Screenshots of protocol filtering (optional) |
+| `README.md`                      | This report/documentation                  |
+
+---
+
 ### ✅ 3. Generate Network Traffic
 While capturing:
 
