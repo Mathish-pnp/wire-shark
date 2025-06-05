@@ -44,6 +44,6 @@ While capturing:
 
 - Open **Command Prompt** and run:  
 ```bash
-ping 8.8.8.8
+ping 192.168.26.144
 
 
